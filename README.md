@@ -1,3 +1,22 @@
+# Pandas LeetCode Solutions 🐼
+
+This repository contains my solutions to LeetCode Pandas problems.
+
+## Topics Covered
+- Data Filtering
+- GroupBy & Aggregation
+- Merge & Join
+- Data Cleaning
+- Transformation
+- Statistics
+
+## Tools Used
+- Python
+- Pandas
+
+## Goal
+Improving problem-solving and data manipulation skills through consistent practice.
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
