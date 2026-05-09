@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Matrix
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
