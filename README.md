@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
