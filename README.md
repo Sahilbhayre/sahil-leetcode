@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0013-roman-to-integer) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -280,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
