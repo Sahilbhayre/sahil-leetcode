@@ -7,10 +7,10 @@ public:
 
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n - 3; i++) {
+        for (int i = 0; i < n; i++) { // outer loop goes up to n
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            for (int j = i + 1; j < n - 2; j++) {
+            for (int j = i + 1; j < n; j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
                 unordered_set<long long> hashSet;
@@ -21,8 +21,6 @@ public:
 
                     if (hashSet.count(fourth)) {
                         ans.push_back({nums[i], nums[j], (int)fourth, nums[k]});
-
-                        // Skip duplicate values for k to prevent identical quadruplets
                         while (k + 1 < n && nums[k] == nums[k + 1]) k++;
                     }
                     hashSet.insert(nums[k]);
