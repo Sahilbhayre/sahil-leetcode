@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
