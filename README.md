@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0031-next-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
