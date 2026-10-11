@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
