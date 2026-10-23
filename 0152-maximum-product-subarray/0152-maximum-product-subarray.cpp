@@ -16,12 +16,23 @@ public:
         // }
 
         // 2. Better Approach
+        // for(int i = 0; i < n; i++){
+        //     int prod = 1;
+        //     for(int j = i; j < n; j++){
+        //         prod = prod * nums[j];
+        //         maxi = max(maxi, prod);
+        //     }
+        // }
+
+        // 3. Optimial Approach
+        int prefix = 1;
+        int suffix = 1;
         for(int i = 0; i < n; i++){
-            int prod = 1;
-            for(int j = i; j < n; j++){
-                prod = prod * nums[j];
-                maxi = max(maxi, prod);
-            }
+            if(prefix == 0) prefix = 1;
+            if(suffix == 0) suffix = 1;
+            prefix = prefix * nums[i];
+            suffix = suffix * nums[n - i - 1];
+            maxi = max(maxi, max(prefix, suffix));
         }
         return maxi;
     }
