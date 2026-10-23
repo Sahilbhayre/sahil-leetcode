@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0229-majority-element-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1260-shift-2d-grid) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 | [2540-minimum-common-value](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -426,24 +428,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
