@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0493-reverse-pairs) |
 | [2540-minimum-common-value](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2540-minimum-common-value) |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0645-set-mismatch) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
